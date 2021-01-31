@@ -1,0 +1,1691 @@
+[
+       {
+          "content": "Wykres Sankey'a to: ",
+          "answers":[
+             "A) Schemat instalacji technologicznej",
+             "B) Schemat operacji wymiany masy i ciepła w procesie technologicznym",
+             "C) Bilans masowy i/lub energetyczny procesu technologicznego w postaci wykresu strumieniowego",
+             "D) Graficzna ilustracja kosztu wytwarzania 1 kg produktu"
+          ],
+          "correct_answer": "C"
+       },
+       {
+        "content": "Cykl pracy silnika spalinowego o zapłonie iskrowym określa się jako:",
+        "answers":[
+           "A) Cykl Otto",
+           "B) Cykl Ericsona",
+           "C) Cykl Braytona",
+           "D) Cykl Linde"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Proces CO-Shift to:",
+        "answers":[
+           "A) otrzymywanie tlenku węgla z metanu",
+           "B) konwersja parowa tlenku węgla do wodoru i ditlenku węgla",
+           "C) dopalanie' tlenku węgla do ditlenku węgla",
+           "D) żadna odpowiedź nie jest prawdziwa"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "System otwarty wchodzi w interakcję z otoczeniem poprzez:",
+        "answers":[
+           "A) transport masy, wymianę ciepła i wykonanie pracy",
+           "B) zmianę objętości",
+           "C) zmianę temperatury",
+           "D) wykonanie pracy lub wymianę ciepła"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Egzergia to wielkość charakteryzująca:",
+        "answers":[
+           "A) zdolność układu do wykonania pracy maksymalnej",
+           "B) zdolność układu do pokonania strat",
+           "C) właściwości substancji w równowadze z otoczeniem",
+           "D) energię mechaniczną i cieplną układu lub substancji"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Który z materiałów jest złym przewodnikiem ciepła:",
+        "answers":[
+           "A) cegły",
+           "B) woda",
+           "C) styropian",
+           "D) miedź"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        "content": "Przepływ, w którym płyn przepływa w sposób przewidywalny, bez zakłóceń jest przepływem:",
+        "answers":[
+           "A) turbulentnym",
+           "B) przejściowym",
+           "C) laminarnym"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        "content": "Wybierz najlepszy przewodnik ciepła z podanych poniżej:",
+        "answers":[
+           "A) torf",
+           "B) grafit",
+           "C) węgiel brunatny",
+           "D) węgiel kamienny"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Najwyższa teoretyczna sprawność obiegu dotyczy:",
+        "answers":[
+           "A) obiegu silnika z regeneracją ciepła",
+           "B) turbiny gazowej w układzie skojarzonym",
+           "C) obiegu nadkrytycznego siłowni parowej",
+           "D) obiegu prawobieżnego Carnota"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Gaz doskonały:",
+        "answers":[
+           "A) ma stałą energię wewnętrzną",
+           "B) to para wodna lub powietrze",
+           "C) to gaz w zbiorniku zamkniętym",
+           "D) spełnia podstawowe prawa gazowe"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Pompa ciepła to inaczej:",
+        "answers":[
+           "A) chłodziarka (ziębiarka) pracująca w trybie grzania",
+           "B) pompa kondensatu z turbiny parowej",
+           "C) pompa do gorących wód geotermalnych",
+           "D) pompa do gorącej wody w instalacji grzewczej"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Chłodziarka pracuje w oparciu o:",
+        "answers":[
+           "A) Cykl Rankine'a",
+           "B) Cykl Otto",
+           "C) Cykl Linde",
+           "D) Cykl Carnota"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        "content": "Zmiana czynnika chłodniczego z pary na ciecz zachodzi w:",
+        "answers":[
+           "A) parowniku",
+           "B) sprężarce",
+           "C) przegrzewaczu",
+           "D) skraplaczu"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Równanie Van der Waalsa opisuje:",
+        "answers":[
+           "A) tylko właściwości gazu",
+           "B) stan gazu idealnego",
+           "C) właściwości cieczy i gazów",
+           "D) właściwości tylko cieczy"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Wartość kaloryczna zależy od zawarości:",
+        "answers":[
+           "A) CO, Pb, Ar",
+           "B) C, H, O",
+           "C) C, He, Po",
+           "D) C, Si, Mg"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Równowaga termodynamiczna obejmuje:",
+        "answers":[
+           "A) równowagę termiczną (bez wymiany ciepła)",
+           "B) wszystkie wymienione czynniki",
+           "C) równowagę chemiczną (brak reakcji chemicznych)",
+           "D) równowagę mechaniczną (sił i momentów siły)"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Równanie stanu dla gazu idealnego jest podane przez:",
+        "answers":[
+           "A) pV = mRT, gdzie R jest charakterystyczną stałą gazową",
+           "B) pV = nRT, gdzie R jest uniwersalną stałą gazową",
+           "C) wszystkie wymienione"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        "content": "Pomiary temperatury za pomocą termopary polegają na:",
+        "answers":[
+           "A) pomiarze siły elektromotorycznej na styku metal-metal",
+           "B) pomiarze zmieny oporności elektrycznej na styku metal-metal",
+           "C) pomiarze natężenia prądu przepływającego przez złącze dwóch metali",
+           "D) pomiarze różnic w rozszerzalności cieplnej obu metali"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Cykl termodynamiczny oznacza:",
+        "answers":[
+           "A) cykl pracy silnika lub pompy ciepła",
+           "B) ogrzewanie i chłodzenie wody",
+           "C) działanie wymiennika ciepła",
+           "D) szereg kolejnych procesów"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Druga zasada termodynamiki:",
+        "answers":[
+           "A) definiuje entropię",
+           "B) difiniuje sprawność",
+           "C) definiuje ciepło",
+           "D) definiuje entalpię"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Proces adiabatyczny",
+        "answers":[
+           "A) jest procesem, w którym energia systemu pozostaje stała",
+           "B) jest procesem izentalpowym",
+           "C) jest to proces, w którym nie występuje tarcie",
+           "D) jest procesem, w którym nie dochodzi do wymiany ciepła"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Należy wskazać odpowiednie zakończenie zdania: Konwekcja ciepła jest procesem:",
+        "answers":[
+           "A) wymiany ciepła związanej z ruchem gazu lub cieczy",
+           "B) polegającym na przekazywaniu ciepła w próżni",
+           "C) polegającym na przekazywaniu ciepła przez promieniowanie",
+           "D) przebiegającym przeciwnie do gradientu temperatur"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        "content": "Wielkości termodynamiczne można podzielić na dwie ogólne klasy, tj. intensywne i ekstensywne:",
+        "answers":[
+           "A) wielkości intensywne zależą od  wielkości systemu lub ilości materii w systemie",
+           "B) przykłady wielkości intensywnych obejmują temperaturę i gęstość",
+           "C) wielkości ekstensywne nie zależa od wielkości systemu ani od ilości materii w systemie",
+           "D) wszystkie wymienione"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Sprawność cyklu Rankine'a może zostać zwiększona dzięki:",
+        "answers":[
+           "A) obniżeniu ciśnienia H2O w kotle",
+           "B) spalaniu większych ilości paliwa lub lepszej jakości",
+           "C) zwiększeniu ciśnienia w skraplaczu",
+           "D) zwiększeniu parametrów pary świeżej (przed turbiną)"
+        ],
+        "correct_answer": ""
+     },
+     {
+        "content": "Sprawność obiegu silnika cieplnego wyraża:",
+        "answers":[
+           "A) stosunek ciepła dostarczonego do pracy silnika (lub mocy wyjściowej)",
+           "B) ilość dostarczonego ciepła",
+           "C) pracę lub moc wyjściową silnika",
+           "D) stosunek pracy (lub mocy wyjściowej) silnika do ilości dostarczonego ciepła"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "Dla każdego procesu termodynamicznego:",
+        "answers":[
+           "A) energia wewnętrzna jest stała",
+           "B) zmiana energii wewnętrznej układu jest niezależna od drogi procesu",
+           "C) ciepło pobrane przez układ jest niezależne od drogi procesu (sposobu przekazywania)",
+           "D) praca wykonywana przez układ jest niezależna od drogi procesu (sposobu przekazywania)"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Wymiana ciepła jest zjawiskiem naturalnym występującym przy różnicy temperatur pomiędzy ciałami. Wskaż poprawne sposoby przekazywania energii na sposób ciepła:",
+        "answers":[
+           "A) promieniowanie",
+           "B) konwekcja",
+           "C) przewodzenie",
+           "D) wszystkie odpowiedzi są poprawne"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        "content": "W systemie zamkniętym zmiana energii wewnętrznej jest równa ilości przekazywanego ciepła w:",
+        "answers":[
+           "A) przemianie adiabatycznej",
+           "B) przemianie izochorycznej",
+           "C) przemianie izobarycznej",
+           "D) przemianie izentropowej"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Systemy w przyrodzie mają tendencję do zmian w kierunku:",
+        "answers":[
+           "A) niższej entropii",
+           "B) wyższej entropii",
+           "C) stałej entropii"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        "content": "Pierwsze prawo termodynamiki:",
+        "answers":[
+           "A) stwierdza, że energia może być generowana, ale nie może znikać",
+           "B) stwierdza, że entropia doskonale krystalicznych substancji w temperaturze absolutnego zera jest maksymalna",
+           "C) stwierdza, że każda zmiana energii wewnętrznej układu jest równa sumie dostarczonego ciepła i pracy wykonanej na układzie przez otoczenie"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Określ warunki unoszenia się lub tonięcia ciała w cieczy",
+        "answers":[
+           "A) ciało unosi się w cieczy, jeżeli jego gęstość jest mniejsza niż gęstość cieczy",
+           "B) ciało tonie, jeśli jego gęstość jest większa niż gęstość cieczy ",
+           "C) ciało tkwi całkowicie zanurzone pod powierzchnią cieczy, jeśli jego gęstość jest równa gęstości cieczy",
+           "D)wszystkie odpowiedzi są prawidłowe "
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Zgodnie z pierwszą zasadą dynamiki Newtona, gdy na dane ciało nie działa żadna siła, to:",
+        "answers":[
+           "A) ciało to musi być w spoczynku",
+           "B) ciało to pozostaje w spoczynku lub porusza się ruchem jednostajnie przyspieszonym po linii prostej",
+           "C) może mieć prędkość początkową, lecz po pewnym czasie zatrzyma się",
+           "D) wektor prędkości tego ciała nie zmienia się"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+         "content": "Wybierz prawidłowe jednostki mocy (N=newton, m=metr, s=sekunda)",
+           "answers":[
+              "A) N*m",
+              "B) N*m-s",
+              "C) N*m*s^(-1) ",
+              "D)N*m*s^(2) "
+           ],
+           "correct_answer": "C"
+      },
+      {
+        
+      "content": "Który obiekt posiada energię kinetyczną?",
+        "answers":[
+           "A) książka na półce ",
+           "B) poruszający się samochód",
+           "C) rozciągnięta sprężyna"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Który obiekt posiada grawitacyjną energię potencjalną?",
+        "answers":[
+           "A) książka na półce ",
+           "B) poruszający się po drodze samochód",
+           "C) rozciągnięta sprężyna"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Obiekt o masie 60 kg porusza się z szybkością równą 8 m/s. Jaka jest jego energia kinetyczna? ",
+        "answers":[
+           "A) 240 J",
+           "B) 1920 J",
+           "C) 3840 J"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Jaka jest grawitacyjna energia potencjalna obiektu o masie 60 kg znajdującego się na szczycie 2-metrowej zjeżdżalni? (g = 10 N/kg)?",
+        "answers":[
+           "A) 120 J",
+           "B) 600 J",
+           "C) 1200 J"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Obiekt o masie 2 kg ma energię potencjalną 580 J. Jaka jest wysokośćmasy nad ziemią? (g = 10 N/kg)",
+        "answers":[
+           "A) 29 m",
+           "B) 58 m",
+           "C) 290 m "
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Samochód o masie 2000 kg, poruszający się ze stałą szybkością, ma energię kinetyczną równą 900 kJ. Jaka jest szybkość tego samochodu?",
+        "answers":[
+           "A) 50 m/s",
+           "B) 30 m/s ",
+           "C) 100 m/s "
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Nośnikami prądu w półprzewodnikach są:",
+        "answers":[
+           "A) elektrony",
+           "B) protony",
+           "C) dziury i elektrony ",
+           "D) jony"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Elementy pasywne obwodu elektrycznego to:",
+        "answers":[
+           "A) amperomierz, woltomierz",
+           "B) źródło prądowe, źródło napięciowe ",
+           "C) natężenie prądu, napięcie, moc",
+           "D)  opór, indukcyjność, pojemność"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Prawa Kirchhoffa określają w obwodzie elektrycznym:",
+        "answers":[
+           "A) zależności napięciowe i prądowe dla węzłów",
+           "B) zależności napięciowe dla węzłów i prądowe dla oczek",
+           "C) zależności napięciowe dla oczek i prądowe dla węzłów",
+           "D) zależności napięciowe i prądowe dla oczek"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Powszechnie stosowane w energetyce maszyny elektryczne działają na podstawie prawa:",
+        "answers":[
+           "A) powszechnego ciążenia",
+           "B) indukcji elektromagnetycznej i prawa Ampera",
+           "C) adiabatycznej przemiany gazowej",
+           "D)  elektrostatycznego oddziaływania ładunków"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Rolą transformatorów energetycznych jest:",
+        "answers":[
+           "A) zwiększanie mocy elektrycznej",
+           "B) zamiana częstotliwości prądu i napięcia",
+           "C) prostowanie prądu przemiennego",
+           "D) zmiana wartości prądu i napięcia, bez zmiany mocy"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Generatory synchroniczne w jednej sieci elektroenergetycznej:",
+        "answers":[
+           "A) mogą mieć prędkość wirowania zmienną w zakresie 5%",
+           "B) mają dokładnie taką samą średnią prędkość wirowania",
+           "C) mogą mieć prędkość wirowania zmienną w zakresie 10%",
+           "D) mogą mieć średnią prędkość wirowania zmienną w zakresie 1%"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Standardowa wartość ciśnienia atmosferycznego:",
+        "answers":[
+           "A) zmienia się z wysokością",
+           "B) jest stała i wynosi 1 Atm = 760 mm Hg",
+           "C) jest stała i wynosi 0.1 MPa",
+           "D) jest stała i wynosi w przybliżeniu 1 MPa"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Wymiana ciepła w próżni może zachodzić w wyniku",
+        "answers":[
+           "A) konwekcji",
+           "B) przewodzenia",
+           "C) wszystkich wymienionych wyżej mechanizmów",
+           "D) promieniowania"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Całkowite natężenie promieniowania ciepła emitowane przez ośrodek:",
+        "answers":[
+           "A) jest wprost proporcjonalne do temperatury wyrażonej w skali Kelwina",
+           "B) jest proporcjonalne do czwartej potęgi temperatury wyrażonej w skali Celsjusza",
+           "C) jest krzywą schodkową; ma wartości stałe w wybranych zakresach temperatury",
+           "D) ) jest proporcjonalne do czwartej potęgi temperatury wyrażonej w skali Kelwina"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Energia w Słońcu wydziela się głównie:",
+        "answers":[
+           "A) kosztem grawitacyjnej energii potencjalnej materii Słońca",
+           "B) z reakcji syntezy jąder helu i węgla",
+           "C) z promieniowania kosmicznego",
+           "D) w cyklu reakcji prowadzących do przemiany wodoru w hel"
+        ],
+        "correct_answer": "D"
+     },
+    
+     {
+        
+      "content": "Ciało doskonale czarne ma następujące cechy:",
+        "answers":[
+           "A) niska zdolność do pochłaniania promieniowania cieplnego",
+           "B) wysoka zdolność do transmisji promieniowania cieplnego",
+           "C) wysoka zdolność do odbijania promieniowania cieplnego",
+           "D) wysoka zdolność do pochłaniania promieniowania cieplnego"
+        ],
+        "correct_answer": ""
+     },
+     {
+        
+      "content": "Promieniowanie w podczerwieni jest absorbowane przez:",
+        "answers":[
+           "A) wszystkie cząsteczki dwuatomowe",
+           "B) wszystkie cząsteczki, w których podczas drgania zmienia się moment dipolowy",
+           "C) SO2",
+           "D) wszystkie cząsteczki"
+        ],
+        "correct_answer": ""
+     },
+     {
+        
+      "content": "Ustrój pomiarowy klasycznego multimetru pozwala na pomierzeni",
+        "answers":[
+           "A) natężenia prądu",
+           "B) napięcia ",
+           "C) odpowiedź „a” i „b”",
+           "D) żadna odpowiedź"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Szeregowe połączenie dwóch jednakowych źródeł napięcia w obwodziebzamkniętym z odbiornikiem spowoduje:",
+        "answers":[
+           "A) Dwukrotny wzrost wypadkowego napięcia w układzie",
+           "B) Dwukrotny wzrost wypadkowego prądu w układzie",
+           "C) Nie wywoła zmiany natężenia ani prądu",
+           "D) Dwukrotny spadek rezystancji odbiornika"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Równoległe połączenie dwóch rezystorów (każdy o tym samym oporze) powoduje:",
+        "answers":[
+           "A) Zwiększenie rezystancji zastępczej układu w porównaniu z pojedynczym rezystorem",
+           "B) Zmniejszenie rezystancji zastępczej układu w porównaniu z pojedynczym rezystorem",
+           "C) Zmniejszenie oporu pierwszego rezystora",
+           "D) Zwiększenie oporu drugiego rezystora"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Oznaczenie “RL” obwodu elektrycznego oznacza, że znajdują się w nim:",
+        "answers":[
+           "A) Zarówno kondensatory jak i rezystory",
+           "B) Zarówno cewki indukcyjne jak i rezystory",
+           "C) Cewki, kondensatory i rezystory",
+           "D) Tylko rezystory"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Szybkość reakcji chemicznej nie zależy od:",
+        "answers":[
+           "A) temperatury",
+           "B) stężeń substratów",
+           "C) katalizatora",
+           "D) żadne z powyższych"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Sporządzono roztwory kwasu solnego o pH=2 i o pH=4. Które z poniższych stwierdzeń jest prawdziwe? Stężenie jonów H+ w roztworze:",
+        "answers":[
+           "A) o pH=2 jest 2 razy mniejsze niż w roztworze o pH=4",
+           "B) o pH=2 jest 100 razy wyższe niż w roztworze o pH=4",
+           "C) o pH=2 jest 2 razy wyższe niż w roztworze o pH=4",
+           "D) o pH=2 jest 100 razy mniejsze niż w roztworze o pH=4"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Najbardziej reaktywnym niemetalem jest",
+        "answers":[
+           "A) fluor",
+           "B) tlen",
+           "C) jodyna",
+           "D) węgiel"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Katalizator jest to substancja, która:",
+        "answers":[
+           "A) przyspiesza reakcję",
+           "B) zmienia stałą równowagi reakcji",
+           "C) zmienia kierunek reakcji",
+           "D) obniża szybkość reakcji"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Najwyższa liczba elektronów o tej samej głównej liczbie kwantowej wynosi:",
+        "answers":[
+           "A) 2n",
+           "B) n/2",
+           "C) 2n^2",
+           "D) n"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Atom, który zyskał pewną liczbę elektronów do stworzenia 8-elektronowej powłoki walencyjnej jest:",
+        "answers":[
+           "A) nukleonem",
+           "B) anionem",
+           "C) kationem",
+           "D)elektronem"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Aktywność chemiczna metali należących do danej grupy głównej rośnie ze wzrostem liczby atomowej. Fakt ten jest spowodowany głównie:",
+        "answers":[
+           "A) wzrostem liczby wszystkich cząstek elementarnych w atomie",
+           "B) wzrost liczby elektronów i neutronów w jądrach atomów",
+           "C) wzrostem liczby elektronów walencyjnych",
+           "D) wzrostem odległości elektronów walencyjnych od jądra"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Pierwiastek jest to zbiór atomów o:",
+        "answers":[
+           "A) tej samej liczbie masowej",
+           "B) tej samej liczbie neutronów",
+           "C) tym samym ładunku elektrycznym jądra atomowego",
+           "D) różnej liczbie atomowej"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Analizując położenie pierwiastków grup głównych w układzie okresowym można określić: ",
+        "answers":[
+           "A) liczbę elektronów walencyjnych",
+           "B) ilość izotopów danego pierwiastka",
+           "C) ilość związków z tlenem",
+           "D) wartość liczbową energii jonizacji"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Elementy w tej samej grupie układu okresowego nie różnią się podwzględem: ",
+        "answers":[
+           "A) promienia atomowego",
+           "B) liczby protonów w jądrze",
+           "C) liczby neutronów w jądrze",
+           "D) konfiguracji elektronów walencyjnych"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Dyfuzja jest procesem, na który się składa:",
+        "answers":[
+           "A) samoczynne wyrównywanie się stężeń roztworów będące wynikiem przemieszczania się substancji z obszaru o wyższym stężeniu do obszaru o niższym stężeniu",
+           "B) neutralizacja ładunku poza micelami spowodowana dodaniem silnego elektrolitu",
+           "C) zwiększenie stężenia roztworu poprzez przemieszczanie się substancji z osadu do roztworu spowodowane podwyższoną temperaturą",
+           "D) zmniejszenie stężenia roztworu poprzez samoczynne wytrącanie się roztworu przesyconego"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Ozon jest: ",
+        "answers":[
+           "A) odmianą alotropową tlenu",
+           "B) odmianą izomorficzną tlenu",
+           "C) homologiem tlenu",
+           "D) izomerem tlenu"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Do zupełnego spalenia 1 m^3 metanu należy dostarczyć co najmniej:",
+        "answers":[
+           "A) 4 m^3 powietrza",
+           "B) 6,5 m^3 powietrza",
+           "C) 9,5 m^3 powietrza",
+           "D) 12 m^3 powietrza"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Co to jest mol (substancji)?",
+        "answers":[
+           "A)  Jest to liczba pozwalająca oszacować charakterystykę ruchu płynów",
+           "B) jest to energia, jaką uzyskuje elektron, który przemieścił się w polu elektrycznym o różnicy potencjałów równej 1 woltowi",
+           "C) jest to jednostka SI ilości substancji. Jeden mol zawiera dokładnie 6,02214076 ×10^23 obiektów elementarnych."
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": " Prawo Avogadro określa:",
+        "answers":[
+           "A) uniwersalną stała gazowa",
+           "B) liczbę stopni swobody cząsteczki",
+           "C) objętość gazu w warunkach normalnych",
+           "D) liczbę cząsteczek w jednym molu substancji"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Aby określić pH roztworu należy wykorzystać równanie:",
+        "answers":[
+           "A) ) pH= -log [H+] or pH = -log [H3O+]",
+           "B) pH= -ln [H+]",
+           "C)pH= -exp [H+] or pH = -exp [H3O+]"
+        ],
+        "correct_answer": ""
+     },
+     {
+        
+      "content": "Inna nazwa reakcji utleniania-redukcji to",
+        "answers":[
+           "A) reakcja chemiczna",
+           "B)reakcja neutralizacji",
+           "C) reakcja redoks",
+           "D) reakcja jądrowa"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Który z poniższych nie jest pierwiastkiem chemicznym?",
+        "answers":[
+           "A) żelazo",
+           "B) siarka",
+           "C) powietrze",
+           "D) magnez"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Jądro atomu o liczbie atomowej 17 ma liczbę masową 37. Ile neutronów zawiera to jądro?",
+        "answers":[
+           "A) 17",
+           "B) 37",
+           "C) 19",
+           "D) 20"
+        ],
+        "correct_answer": "D"
+     },
+
+     {
+        
+      "content": "Wszystkie elementy w grupie I mają takie same",
+        "answers":[
+           "A) masa atomowa",
+           "B) numer masy",
+           "C) liczba powłok elektronowych",
+           "D) podobna lub taka samą konfiguracją elektronową powłoki walencyjnej"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Jaka jest masa 0,5 mola węglanu wapnia CaCO3 (masa atomowa: Ca=40, C=12, O=16 )?",
+        "answers":[
+           "A) 50g",
+           "B) 100g",
+           "C) 25g",
+           "D) 200g",
+           "E) 64g"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Alkohol to związek organiczny zawierający jedną lub więcej grup funkcyjnych typu",
+        "answers":[
+           "A)  −CHO",
+           "B)  –OH",
+           "C)  –COOH"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Wskaż który typ nie jest wiązaniem chemicznych",
+        "answers":[
+           "A) wiązanie jonowe",
+           "B) wiązanie neutronowe",
+           "C) wiązanie kowalencyjne",
+           "D)  wiązanie wodorowe"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Co to są węglowodory?",
+        "answers":[
+           "A) związki nieorganiczne, które zawierają węgiel i wodór",
+           "B) związki organiczne, które zawierają węgiel i wodór",
+           "C) związki nieorganiczne, które zawierają wodór",
+           "D) związki organiczne, które zawierają węgiel i grupę hydroksylową"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Zasadnicza różnica pomiędzy ogniwem a elektrolizerem polega na tym, że:",
+        "answers":[
+           "A) w ogniwie proces zostaje wymuszony przyłożonym z zewnątrz napięciem, a podczas elektrolizy reakcja przebiega samorzutnie powodując przepływ prądu",
+           "B) w ogniwie reakcja przebiega samorzutnie powodując przepływ elektronów w obwodzie zewnętrznym, a w elektrolizerze proces zostaje wymuszony przyłożonym z zewnątrz napięciem, które wywołuje ruch elektronów w przeciwną stronę",
+           "C) podczas elektrolizy zachodzą procesy wytwarzające różnicę potencjałów ",
+           "D) w elektrolizerze zachodzą tylko procesy utleniania, a w ogniwie tylko procesy redukcji "
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Wyznacz dominantę następującego zestawu liczb:25;7;22;1;7;17;17;14;6;6;7?",
+        "answers":[
+           "A) 6",
+           "B) 7",
+           "C) 17"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Wyznacz medianę następującego zestawu liczb: 6;15;2;4;22 ?",
+        "answers":[
+           "A) 14",
+           "B) 9,8",
+           "C) 6"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Histogram jest to:",
+        "answers":[
+           "A) wykres kołowy opisujący rozkład danych statystycznych sterowanego procesu",
+           "B) wykres słupkowy opisujący medianę",
+           "C) wykres słupkowy opisujący rozkład odchyleń standardowych",
+           "D) wykres słupkowy opisujący rozkład częstości"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Hipoteza Pareto – Lorenza głosi: ",
+        "answers":[
+           "A) każdy błąd ma swoją przyczynę",
+           "B) jedna przyczyna może decydować o kilku błędach",
+           "C) 20 % przyczyn wywołuje 80 % błędów",
+           "D) 80 % przyczyn wywołuje 20 % błędów"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "W statystyce odchylenie standardowe mówi, jak szeroko wartości jakiejś wielkości są rozrzucone wokół jej średniej",
+        "answers":[
+           "A) im mniejsza wartość odchylenia tym bardziej wartości tej wielkości są rozrzucone wokół średniej ",
+           "B) im wyższa wartość odchylenia tym obserwacje są bardziej skupione wokół średniej",
+           "C) odchylenie standardowe jest pierwiastkiem sześciennym z wariancji."
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Rozkłady normalny ma następujące cechy:",
+        "answers":[
+           "A) symetryczny kształt dzwonu",
+           "B)  średnia i mediana są równe; obie znajdują się w centrum rozkładu",
+           "C) około 99 procent danych mieści się w trzech standardowych odchyleniach od średniej",
+           "D) wszystkie odpowiedzi są poprawne"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Odchylenie standardowe jest obliczane:",
+        "answers":[
+           "A) jako pierwiastek kwadratowy wariancji",
+           "B) jako pierwiastek sześcienny wariancji",
+           "C) jako kwadrat wariancji"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Stosunek błędu pomiaru do wartości rzeczywistej wielkości mierzonej to:",
+        "answers":[
+           "A) błąd przypadkowy",
+           "B) błąd gruby",
+           "C) błąd bezwzględny",
+           "D) błąd względny"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Błąd systematyczny:",
+        "answers":[
+           "A) to to samo co błąd przypadkowy ",
+           "B) występuje wtedy, gdy przy prostym pomiarze występuje ta sama różnica między wartościami zmierzonymi i wartością rzeczywistą",
+           "C) nie można z góry przewidzieć jego wartości w kolejnych pomiarach"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Współczynnik korelacji Pearsona, określający poziom zależności pomiędzy dwoma zmiennymi może przyjmować zakres wartości od +1 do -1",
+        "answers":[
+           "A) wartość 0 oznacza, że istnieje silny związek pomiędzy tymi dwoma zmiennymi  ",
+           "B) wartość większa lub mniejsza od 0 oznacza brak skojarzenia",
+           "C)  bezwzględna wartość współczynnika korelacji daje nam siłę tej zależności"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "W programowaniu komputerowym, instrukcje warunkowe:",
+        "answers":[
+           "A)  pozwalają programowi wybrać ścieżkę realizacji w zależności od spełnienia określonych warunków",
+           "B)  są to sekwencje instrukcji, które są powtarzane do momentu osiągnięcia określonego stanu",
+           "C) są odpowiedzialne za przywrócenie pamięci po wykonaniu programu"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "W programowaniu komputerowym, zmienna",
+        "answers":[
+           "A) jest identyfikowane za pomocą adresu pamięci, jest połączona ze związaną z nią symboliczną nazwą",
+           "B) służy do przechowywania informacji, do których można się odwołać i którymi można zarządzać w programie komputerowym ",
+           "C) posiada wartość, która może się zmieniać w zależności od warunków lub informacji przekazywanych do programu",
+           "D) wszystkie podane odpowiedzi są poprawne"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "W programowaniu komputerowym, pętla",
+        "answers":[
+           "A)  jest sekwencją instrukcji, która jest powtarzana aż do osiągnięcia określonego stanu",
+           "B)  jest to zbiór zdefiniowanych instrukcji, które są wykonywane tylko raz",
+           "C) pozwalają rozłożyć problem na mniejsze części"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Przetwarzanie bazy danych za pomocą polecenia SQL SELECT",
+        "answers":[
+           "A) zwraca zero lub więcej wierszy z jednej lub więcej tabel lub widoków bazy danych",
+           "B) może być wykorzystane do dodania, zmiany lub usunięcia informacji w istniejącym zapisie",
+           "C) zapewnia, że dane w danej kolumnie są niepowtarzalne"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "W niektórych językach programowania rozróżnienie między funkcją a procedurą jest takie, że",
+        "answers":[
+           "A)  procedura wykonuje jakąś operację i zwraca wartość, podczas gdy funkcja wykonuje jakąś operację i nie zwraca wartości",
+           "B)  funkcja wykonuje jakąś operację i zwraca wartość, podczas gdy procedura wykonuje jakąś operację, ale nie zwraca wartości",
+           "C)  funkcja bazuje wyłącznie na zmiennych lokalnych podczas gdy procedury na zmiennych globalnych"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "W bazach danych, pole będące kluczem podstawowym",
+        "answers":[
+           "A) może zawierać wartości, które się powtarzają",
+           "B) może mieć wartości NULL.",
+           "C) w sposób jednoznaczny identyfikuje każdy wiersz/rekord"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Składnia języka komputerowego to",
+        "answers":[
+           "A)  graficzny dostęp do różnych funkcji programu",
+           "B) zbiór reguł określających kiedy sekwencja symboli tworzy program  komputerowy",
+           "C)  instancja tworzona przez działający program na podstawie wcześniej zdefiniowanej klasy"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "MATLAB ",
+        "answers":[
+           "A) jest skrótem od matrix laboratory",
+           "B) jest środowiskiem obliczeń numerycznych i językiem programowania",
+           "C) zawiera toolboxy, czyli zbiór funkcji, zapisanych w jednym pliku instalacyjnym",
+           "D) wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "W programowaniu komputerowym algorytm",
+        "answers":[
+           "A)  odnosi się do konkretnej instancji danej klasy",
+           "B) jest skończonym, uporządkowanym ciągiem jasno określonych czynności niezbędnych do wykonania określonego zadania",
+           "C) jest procesem wykrywania i usuwania istniejących i potencjalnych błędów w kodzie"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "W programowaniu komputerowym typ tablicowy",
+        "answers":[
+           "A) przechowuje zbiór danych, zazwyczaj jednego typu, dostępne przez indeks",
+           "B) przechowuje tylko znaki",
+           "C) przechowuje tylko zmienne całkowite"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Należy wskazać, które z tych zdań jest prawdziwe:",
+        "answers":[
+           "A)  Ropa naftowa i gaz ziemny są odnawialnymi źródłami energii, ale  skrobia i geotermia nie są",
+           "B)  Etanol i gaz ziemny są odnawialnymi źródłami energii, ale ropa naftowa i biomasa nie są",
+           "C)  Skrobia i wiatr należą do odnawialnych źródeł energii, ale ropa naftowa i gaz ziemny do nich nie należą",
+           "D)Skrobia i gaz ziemny należą do odnawialnych źródeł energii, ale ropa naftowa i wiatr nie należą do nich "
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Co nie stanowi elementu kolektora słonecznego:",
+        "answers":[
+           "A) absorber",
+           "B) filtr widma",
+           "C) pokrycie przeciwodbiciowe",
+           "D)  pokrycie selektywne"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Stała słoneczna to:",
+        "answers":[
+           "A) gęstość mocy promieniowania słonecznego emitowanego przez Słońce",
+           "B) promień orbity eliptycznej ruchu Ziemi wokół Słońca",
+           "C) temperatura powierzchni Słońca",
+           "D) średnia gęstość mocy promieniowania słonecznego na zewnątrz atmosfery Ziem"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Zjawisko fotowoltaiczne polega na:",
+        "answers":[
+           "A) emisji fotonów pod wpływem napięcia elektrycznego",
+           "B) absorpcji fotonów w izolatorze pod wpływem wysokiego napięcia",
+           "C) generacji par elektron-dziura w półprzewodniku wskutek absorpcji fotonu",
+           "D) generacji ładunków elektrycznych na powierzchni metalu wskutek odbicia strumienia  fotonów"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Co to jest punkt maksymalnej mocy ogniwa fotowoltaicznego",
+        "answers":[
+           "A) miejsce, w którym należy umieścić ogniwo aby generowało jak największą moc",
+           "B) kąt, pod którym należy umieścić ogniwo aby generowało jak największą moc",
+           "C) największa moc generowana przez ogniwo związana z doborem  optymalnego obciążenia",
+           "D) obszar struktury półprzewodnika w której generowana moc jest  największ"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Gęstość strumienia wiatru jest proporcjonalna do",
+        "answers":[
+           "A) pierwiastka z prędkości wiatru",
+           "B) pierwszej potęgi prędkości wiatru",
+           "C) drugiej potęgi prędkości wiatru",
+           "D) trzeciej potęgi prędkości wiatru"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Co to jest rozkład prędkości wiatru",
+        "answers":[
+           "A) gęstość prawdopodobieństwa wystąpienia danej prędkości wiatru",
+           "B) zmiana prędkości wiatru przy przepływie przez łopatki turbiny",
+           "C) równanie ciągłości strugi dla strumienia powietrza",
+           "D) rozłożenie wypadkowej prędkości wiatru na składowe"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Pośrednie wykorzystanie energii geotermalnej polega na:",
+        "answers":[
+           "A) wykorzystaniu energii termicznej",
+           "B) wytwarzaniu energii elektrycznej",
+           "C) wytwarzanie i wykorzystywaniu energii elektrycznej i cieplnej",
+           "D) wytwarzaniu wyłącznie pary wodnej"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Fermentacyjna metoda produkcji wodoru z biomasy polega na:",
+        "answers":[
+           "A) rozkładzie biomasy do wodoru z wykorzystaniem bakterii",
+           "B) termokatalitycznej dysocjacji metanu",
+           "C) elektrolizie wody",
+           "D) termicznym rozkładzie wody",
+           "E) termochemicznego rozkładu H2S"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Energia słoneczna może być stosowana do wytwarzania wodoru poprzez",
+        "answers":[
+           "A) elektrolizę wody",
+           "B) zgazowanie węgla",
+           "C) odzysk wodoru z gazów rafineryjnych",
+           "D) żadne z powyższych"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Pomiaru natężenia światła dokonujemy w jednostkach:",
+        "answers":[
+           "A) lx",
+           "B) cd",
+           "C) lumen",
+           "D) wat"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Jaka jest składowa promieniowania słonecznego, która dotyczy promieniowania pochodzącego we wszystkich kierunków?",
+        "answers":[
+           "A) bezpośrednie",
+           "B) całkowite",
+           "C) rozporoszone",
+           "D) albedo"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Jednoosiowe systemy śledzenia słońca muszą zostać zastosowane do prawidłowego działania:",
+        "answers":[
+           "A) płaskich kolektorów słonecznych",
+           "B) paraboliczno-rynnowych kolektorów słonecznych",
+           "C) rurowo-próżniowy kolektorów słonecznych",
+           "D) heliostatów"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Stosunek pomiędzy ciepłem dostarczonym do czynnika roboczego w kolektorze słonecznym, a padającą energią słoneczną na jego  powietrznię określa:",
+        "answers":[
+           "A) straty cieplne kolektora słonecznego",
+           "B) wydajność kolektora słonecznego",
+           "C) współczynnik strat cieplnych",
+           "D) sprawność kolektora słonecznego"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Jaki rodzaj krzemowego ogniwa fotowoltaicznego posiada uporządkowaną i jednolitą strukturę atomową w całej strukturze?",
+        "answers":[
+           "A) monokrystaliczny",
+           "B) amorficzny",
+           "C) polikrystaliczny",
+           "D) cienki film "
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Falownik w instalacji fotowoltaicznej:",
+        "answers":[
+           "A) zamienia stały prąd elektryczny wytwarzany przez panele na prąd zmienny",
+           "B) przekształca przemienny prąd elektryczny wytwarzany przez panele w prąd stały",
+           "C) przekształca stały prąd elektryczny wytwarzany przez panele na prąd stały o wyższym natężeniu",
+           "D) przekształca zmienny prąd elektryczny wytwarzany przez panele na prąd o większej amplitudzie"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Moc mechaniczna strumienia powietrza jest:",
+        "answers":[
+           "A) proporcjonalna do lepkości powietrza",
+           "B) proporcjonalna do gęstości powietrza",
+           "C) proporcjonalna do temperatury powietrza",
+           "D) żadne z powyższych"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Zgodnie z analizą Betza maksymalna teoretyczna sprawność turbiny wiatrowej wynosi:",
+        "answers":[
+           "A) blisko 60%",
+           "B) blisko 40%",
+           "C) blisko 90%",
+           "D) blisko 25%"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "W celu zwiększenia mocy turbiny wodnej, energia kinetyczna wody na jej wylocie",
+        "answers":[
+           "A) musi być wyższa niż energia kinetyczna wody na wlocie",
+           "B) powinna być jak najwyżej",
+           "C) powinna być stała",
+           "D) powinna być jak najniższa"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Jaki rodzaj transformacji biomasy jest zwykle stosowany, gdy stosunek węgla do azotu jest wyższy niż 30?",
+        "answers":[
+           "A) przemiana termochemiczna",
+           "B) transformacja biologiczna",
+           "C) przemiana fizyczna",
+           "D) żadne z powyższych"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Czy sprawność ogniwa paliwowego jest limitowana ograniczeniami wynikającymi z cyklu Carnota?",
+        "answers":[
+           "A) tak, ponieważ cykl Carnota definiuje maksymalną sprawność wszystkich urządzeń",
+           "B) nie, ponieważ w przypadku ogniw paliwowych nie stosują się tradycyjne prawa termodynamiki",
+           "C) tak lub nie w zależności od temperatury",
+           "D) nie, ponieważ ogniwo paliwowe nie jest maszyną cieplną"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "W jaki sposób ogniwa paliwowe wytwarzają energię elektryczną?",
+        "answers":[
+           "A) poprzez procesy spalania",
+           "B) w reakcji termojądrowej",
+           "C) poprzez reakcje elektrochemiczne",
+           "D) poprzez reakcje organiczne"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Ogniwo paliwowe PEMFC przekształca:",
+        "answers":[
+           "A) wodór i tlen w wodę",
+           "B) wodę do wodoru i tlenu",
+           "C) wodór i węgiel do metanu"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Wodór można wytwarzać z odnawialnych źródeł metodą",
+        "answers":[
+           "A) zgazowania węgla",
+           "B) reformingu parowego metanu",
+           "C) pirolizy biomasy"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Ogniwa paliwowe wodorowo-tlenowe są urządzeniami elektrochemicznymi, które",
+        "answers":[
+           "A) bezpośrednio przekształcają energię chemiczną wodoru w energię elektryczną",
+           "B) bezpośrednio przekształcają energię chemiczną wodoru w energię elektryczną. Dodatkowymi produktami są również ciepło odpadowe i woda",
+           "C) w pierwszym etapie przekształca energię chemiczną wodoru w energię mechaniczną, a w następnym etapie energię mechaniczną w energię elektryczną",
+           "D)  bezpośrednio przekształcają energię chemiczną wodoru na ciepło i wodę"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Elektrolizery są urządzeniami elektrochemicznymi, które:",
+        "answers":[
+           "A) wytwarzają wodór i tlen ",
+           "B) wytwarzają wodór i tlen, ale do przeprowadzenia procesu elektrolizy wody konieczne jest dostarczenie energii elektrycznej",
+           "C) wytwarzają energię elektryczną i wodór",
+           "D) wytwarzają energię elektryczną i tlen"
+        ],
+        "correct_answer": "B"
+     },
+{
+        
+      "content": "Wodór jest gazem, który posiada pewne cechy tzn. jest",
+        "answers":[
+           "A) bezbarwny, bezwonny, najlżejszy,",
+           "B) bezbarwny, bezwonny, toksyczny, niewybuchowy",
+           "C) bezbarwny, bezwonny, najlżejszy, wybuchowy, nietoksyczny",
+           "D) najlżejszy"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Typową handlową metodą produkcji wodoru jest",
+        "answers":[
+           "A) reformowanie gazu ziemnego (CH4)",
+           "B) elektroliza",
+           "C) zgazowanie węgla",
+           "D) cykle termochemiczne"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Typowa metoda magazynowania wodoru dla samochodów osobowych to",
+        "answers":[
+           "A) przechowywanie w postaci płynnej",
+           "B) magazynowanie w postaci sprężonego gazu pod ciśnieniem 70 MPa",
+           "C) przechowywanie w butlach pod niskim ciśnieniem",
+           "D) magazynowanie w postaci sprężonego gazu o ciśnieniu poniżej 20 MPa"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Zielony wodór możemy produkować:",
+        "answers":[
+           "A) wykorzystując energię odnawialną (turbiny wiatrowe, panele fotowoltaiczne) jako źródło energii do elektrochemicznego rozdzielania wody w elektrolizerach",
+           "B) z paliw kopalnych",
+           "C) wyłącznie wykorzystując turbiny wiatrowe jako źródła energii do elektrochemicznego rozdzielania wody w elektrolizerach",
+           "D) wyłącznie wykorzystując panele fotowoltaiczne jako źródła energii do elektrochemicznego rozdzielania wody w elektrolizerach"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Który z poniższych elementów najlepiej opisuje koszt krańcowy?",
+        "answers":[
+           "A) koszt jednostkowy wytworzenia produktu",
+           "B) koszt związany ze zwiększeniem wielkości produkcji danego dobra o jedną jednostkę",
+           "C) suma wszystkich kosztów związanych z produkcją danego produktu",
+           "D) koszt środków trwałych, takich jak koszty ogólne i administracyjne"
+        ],
+        "correct_answer": ""
+     },
+     {
+        
+      "content": "Jaki jest wzór stosowany do obliczania kosztu krańcowego?",
+        "answers":[
+           "A) koszt całkowity/ilość całkowita wytworzonego",
+           "B) ilość wytworzonego dobra ogółem/koszt całkowity",
+           "C) zmiana kosztów całkowitych/Zmiana ilości wytworzonego dobra",
+           "D) zmiana ilości wytworzonego dobra/Zmiana kosztu całkowitego"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Podstawowe prawo popytu mówi, przy założeniu, że żadne inne czynniki się nie zmieniają (ceteris paribus),",
+        "answers":[
+           "A) wraz ze spadkiem ceny dobra zapotrzebowanie na nie maleje",
+           "B) wraz ze wzrostem ceny danego dobra, zmaleje zapotrzebowanie na dobro",
+           "C) wraz ze wzrostem ceny dobra zapotrzebowanie na nie rośnie",
+           "D) odpowiedzi A oraz C są prawidłowe"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Która z poniższych cech nie jest charakterystyczna dla struktury rynków doskonale konkurencyjnych?",
+        "answers":[
+           "A) pojedyncza firma jest niewielka w stosunku do całego rynku",
+           "B) na rynku występuje niewielu sprzedawców",
+           "C) oferowany produkt jest jednorodny",
+           "D) możliwość swobodnego wejścia na rynek i wyjścia z rynku"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Która z poniższych zmiennych nie wpływa na ilość produktu, który firma jest w stanie sprzedać?",
+        "answers":[
+           "A) cena produktu",
+           "B) cena produktów powiązanych",
+           "C) koszty produkcji",
+           "D) przychody i upodobania konsumentów"
+        ],
+        "correct_answer": ""
+     },
+     {
+        
+      "content": "Wartość bieżąca netto (NPV) jest",
+        "answers":[
+           "A) wartością bieżącą przepływów pieniężnych pomniejszoną o wartośćinwestycji początkowej",
+           "B) roczną stopą wzrostu wygenerowaną przez inwestycję",
+           "C) długością czasu potrzebną do odzyskania nakładów inwestycyjnych"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Jaki jest termin używany dla ilości czasu potrzebnego do zwrotu początkowej inwestycji?",
+        "answers":[
+           "A) liczba całkowita reinwestycji",
+           "B) czas oczekiwania",
+           "C) okres zwrotu",
+           "D) koszt utopiony"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Firma powinna kontynuować produkcję (w krótkim okresie czasu)",
+        "answers":[
+           "A) jeżeli cena przekracza koszt jednostkowy",
+           "B) jeżeli cena jest niższa niż jednostkowy koszt stały",
+           "C) jeżeli cena przewyższa jednostkowy koszt zmienny",
+           "D) niezależnie od wysokości jednostkowych kosztów stałych i  zmiennych"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Co pokazuje wykres Gantta ?",
+        "answers":[
+           "A) listę indywidualnych zadań",
+           "B) kiedy zadania zaczynają się i kończą",
+           "C) współzależności między poszczególnymi zadaniami",
+           "D) wszystkie one są prawidłowe"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Bezpieczeństwo energetyczne kraju może zostać zwiększone poprzez",
+        "answers":[
+           "A) zwiększanie podaży krajowych surowców energetycznych",
+           "B) dywersyfikacja dostaw energii",
+           "C) rozwój infrastruktury magazynowania energii",
+           "D) wszystkie wymienione"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Bezpieczeństwo energetyczne to:",
+        "answers":[
+           "A) stan gospodarki umożliwiający pokrycie bieżącego i perspektywicznego zapotrzebowania odbiorców na paliwa",
+           "B) ochrona obiektów wytwarzających energię",
+           "C) stan gospodarki umożliwiający pokrycie bieżącego i perspektywicznego zapotrzebowania odbiorców na energię",
+           "D) stan gospodarki umożliwiający pokrycie bieżącego i  perspektywicznego zapotrzebowania odbiorców na paliwa i energię w sposób technicznie i ekonomicznie uzasadniony, przy zachowaniu wymagań ochrony środowiska"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Zbiorniki gazu w kawernach solnych służą głównie do:",
+        "answers":[
+           "A) zapewnienia ciągłości dostaw gazu z importu",
+           "B) zapewnienia warunków dla optymalnej eksploatacji systemuprzesyłowego gazu jak też zapewnienia ciągłości dostaw i odbioru gazuz tego systemu w okresie prac remontowych oraz konserwacyjnych poszczególnych elementów tego systemu",
+           "C) zapewnienia bezpieczeństwa energetycznego kraju"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Polityka energetyczna to sposób, w jaki rząd decyduje się zająć kwestiami rozwoju energetyki związanymi z :",
+        "answers":[
+           "A) wytwarzaniem energii",
+           "B) dystrybucją energii",
+           "C) zużyciem energii",
+           "D) wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Które z poniższych zdań najlepiej opisuje sytuację energetyczną w UE?",
+        "answers":[
+           "A) większość surowców energetycznych zużywanych w EU pochodzi z jej własnych dostaw",
+           "B) UE nie boryka się z problemami ekologicznymi związanymi z energią.",
+           "C) UE jest największym eksporterem energii na świecie.",
+           "D) żadna z powyższych "
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Które z wymienionych trzech krajów są największymi dostawcami ropy naftowej wg EIA?",
+        "answers":[
+           "A) Arabia Saudyjska, Rosja i USA",
+           "B) USA, Rosja i Chiny",
+           "C) Rosja, Iran i Katar"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Kwaśne deszcze są powodowane przez:",
+        "answers":[
+           "A) dwutlenek węgla",
+           "B) tlenek węgla",
+           "C) tlenki krzemu",
+           "D) tlenki siark"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Która technologia wytwarzania energii ma najwyższą intensywność emisji dwutlenku węgla",
+        "answers":[
+           "A) elektrownia jądrowa",
+           "B) elektrownia na węgiel brunatny",
+           "C) elektrownia wiatrowa na morzu"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Termin ślad węglowy oznacza",
+        "answers":[
+           "A) ) Ilość CO2 wyemitowaną na świecie każdego tygodnia",
+           "B) ) Ilość CO2 wyemitowaną przez każdego człowieka w ciągu jego życia",
+           "C)  Całkowitą emisję CO2 spowodowaną bezpośrednio lub pośrednio przez produkt w czasie jego życia"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Zmniejszenie emisji dwutlenku węgla przy spalaniu węgla można osiągnąć poprzez:",
+        "answers":[
+           "A) zastąpienie gazu ziemnego węglem kamiennym",
+           "B) zastąpienie węgla kamiennego węglem brunatnym ",
+           "C) zwiększenie sprawności wytwarzania energii w elektrowni opalanej węglem kamiennym"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Aby zapobiec niebezpiecznym zmianom klimatycznym, społeczność międzynarodowa w porozumieniu paryskim UNFCCC zgodziła utrzymać wzrost temperatury na świecie poniżej pewnego poziomu. Jaki jest ten poziom?",
+        "answers":[
+           "A) 4°C powyżej temperatury sprzed rewolucji przemysłowe",
+           "B) 2°C powyżej temperatury sprzed rewolucji przemysłowej",
+           "C) 2°C poniżej temperatury sprzed 1990 r"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "W ciągu ostatnich stu lat stężenie dwutlenku węgla w atmosferze ziemskiej",
+        "answers":[
+           "A) zmniejszyło się o ok 20%",
+           "B) zwiększyło się do wartości przekraczającej 400 ppm",
+           "C) nie zmieniło się"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "W jakim stopniu UE zobowiązała się do ograniczenia emisji gazów cieplarnianych do 2020 r.?",
+        "answers":[
+           "A) 20% poniżej poziomu z 1990 r.",
+           "B) 12% poniżej poziomu z 1990 r.",
+           "C) 17 % poniżej poziomu z 2005 r."
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Który z tych gazów przyczynia się do globalnego ocieplenia?",
+        "answers":[
+           "A) tlen",
+           "B) metan",
+           "C) argon"
+        ],
+        "correct_answer": "B"
+     },
+     {
+        
+      "content": "Za pomocą jakiego instrumentu UE ogranicza emisje gazów cieplarnianych z elektrowni i zakładów przemysłu ciężkiego?",
+        "answers":[
+           "A) Euratom",
+           "B) Wspólnej polityki rolnej",
+           "C) Systemu Handlu Emisjam"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Które zdanie jest prawdziwe. W 2019 r. na świecie",
+        "answers":[
+           "A) ok. 1,2 mld osób nie miało dostępu do energii elektrycznej",
+           "B) ok. 4,5 mld osób nie miało dostępu do energii elektryczne",
+           "C) ok. 6,6 mld osób nie miało dostępu do energii elektrycznej"
+        ],
+        "correct_answer": "A"
+     },
+     {
+        
+      "content": "Co oznacza skrót LCA?",
+        "answers":[
+           "A) Wyznaczenie cyklu życia",
+           "B) Duże aktywa cementowe",
+           "C) Ocena cyklu życia"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Co to jest budynek zeroenergetyczny?",
+        "answers":[
+           "A) ) budynek z instalacją fotowoltaiczną na dachu",
+           "B) obie odpowiedzi są poprawne",
+           "C)  budynek o zerowym zużyciu energii netto"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Zrównoważony rozwój:",
+        "answers":[
+           "A) to rozwój kosztem przyszłych pokoleń",
+           "B) to rozwój odpowiadający potrzebom współczesności, mający na celu głównie dynamiczny rozwój gospodarczy",
+           "C) to rozwój, który zaspokaja potrzeby teraźniejszości bez uszczerbku dla zdolności przyszłych pokoleń do zaspokajania swoich własnych potrzeb"
+        ],
+        "correct_answer": "C"
+     },
+     {
+        
+      "content": "Paliwa kopalne są bogate w",
+        "answers":[
+           "A) tlen",
+           "B) azot",
+           "C) fosfor",
+           "D) węgiel"
+        ],
+        "correct_answer": "D"
+     },
+     {
+        
+      "content": "Emisje dwutlenku siarki do atmosfery powodują przede wszystkim",
+        "answers":[
+           "A) eutrofizację",
+           "B) kwaśne deszcze",
+           "C) globalne ocieplenie"
+        ],
+        "correct_answer": "B"
+     }
+    ]
